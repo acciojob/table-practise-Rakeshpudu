@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+table{
+	width:10%;
+	border:2px black solid;
+	background-colour:yellow;
+	border-color:1px solid black;
+}
+caption{
+	font-size:19px;
+	font-family:monospace;
+	font-weight:bolder;
+	color:saddlebrown
+}
+th{
+	border:3px black solid;
+	font-family:cursive;
+}
+td{
+	border:3px black solid;
+	font-family:cursive;
